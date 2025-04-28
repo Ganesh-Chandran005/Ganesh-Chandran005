@@ -1,7 +1,10 @@
 ## Hi! I'm Ganesh Chandran, First Year B.Tech Computer Science and Engineering Student at St. Joseph's College of Engineering and Technology, Palai.
 
 <div align="center">
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
   
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -18,6 +21,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ganesh-Chandran005&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 
 
