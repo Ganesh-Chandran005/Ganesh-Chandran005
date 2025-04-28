@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi! I'm Ganesh Chandran,First Year B.Tech Computer Science and Engineering Student at St. Joseph's College of Engineering and Technology,Palai.<br><br>
+## Hi! I'm Ganesh Chandran,
+## First Year B.Tech Computer Science and Engineering Student 
+## At St. Joseph's College of Engineering and Technology,Palai.<br><br>
 
 
 # 💻 Tech Stack:
