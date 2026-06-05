@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi! I'm **Ganesh Chandran**
-### First Year B.Tech Computer Science and Engineering Student at St. Joseph's College of Engineering and Technology, Palai.
+### Third Year B.Tech Computer Science and Engineering (Minor in Robotics and Automation) Student at St. Joseph's College of Engineering and Technology, Palai.
 
 
 
